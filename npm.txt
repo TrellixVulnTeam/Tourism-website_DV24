@@ -1,0 +1,2 @@
+npm init //to install package.json
+npm install node-sass --save-dev //to install sass
